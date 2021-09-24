@@ -152,6 +152,7 @@ figcaption {
     height: 180px;
     margin-left: 280px;
     border-radius: 10px;
+    margin-bottom: 30px;
 }
 
 .call-one {
@@ -166,4 +167,14 @@ figcaption {
     font-family: calibri;
     font-size: 20px;
     padding-left: 60px;
+}
+
+/* Footer */
+footer {
+    background-color: #1f2937;
+    color: #fff;
+    text-align: center;
+    padding: 15px;
+    font-family: sans-serif;
+    font-size: 20px;
 }
