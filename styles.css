@@ -116,3 +116,27 @@ figcaption {
     text-align: center;
     padding-bottom: 80px;
 }
+
+/* Quote */
+.quote {
+    background-color: #e5e7eb;
+}
+
+.main-quote{
+    font-size: 36px;
+    font-weight: light;
+    color: #1f2937;
+    font-family: verdana;
+    text-align: center;
+    padding: 80px 60px;
+    font-style: italic;
+}
+
+.by {
+    font-size: 26px;
+    font-weight: bold;
+    font-family: verdana;
+    text-align: end;
+    padding-right: 80px;
+    padding-bottom: 80px;
+}
